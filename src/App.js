@@ -7,7 +7,6 @@ import { randomColor } from "randomcolor";
 
 function App() {
   const quotes = useRef("");
-  // const color = useRef(randomColor());
   const color = useRef("");
 
   const [randomQuote, setRandomQuote] = useState("");
@@ -32,7 +31,6 @@ function App() {
   function tweetQuote() {}
   function changeBackgroundColor() {
     document.body.style.background = color.current;
-    // document.getElementById("tweet-quote").style.background = color;
   }
   return (
     <div id="quote-box">
