@@ -2,7 +2,7 @@
 
 ## Build a Random Quote Machine
 
-[Demo](https://csb-lujxt.vercel.app/)
+[Demo](https://ecaste-quotes.vercel.app)
 
 ![Imgur](https://i.imgur.com/zxoDwbR.png)
 
